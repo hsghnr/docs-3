@@ -1,4 +1,4 @@
----
+hsghn--
 meta:
   - name: description
     content: Learn what a public chain project is as part of the Chainstack managed blockchain services.
